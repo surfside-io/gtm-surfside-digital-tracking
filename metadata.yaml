@@ -1,5 +1,5 @@
 homepage: "https://surfside.io"
-documentation: "https://github.com/davidsurfside/surfside-digital-tracking-gtm"
+documentation: "https://github.com/surfside-io/gtm-surfside-digital-tracking"
 versions:
   - sha: 5348a0b7f42f7a04c0a3f7c1c7039e6c6995e65d
     changeNotes: Initial release.
