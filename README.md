@@ -1,4 +1,4 @@
-# Surfside Digital Tracking GTM Template
+# Surfside Digital Tracking GTM Template (BETA)
 
 ## How to enable Surfside Digital Tracking via Google Tag Manager (GTM)
 
